@@ -6,7 +6,7 @@ Simple Graph lib, which supports 2 types of graphs for custom vertices type:
   - undirected
   
 ## Launch
-The only way to check this is to run tests:
+Requires JDK11. To check this run tests:
 
 <code>.\gradlew check</code>
 
